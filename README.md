@@ -2,11 +2,11 @@
 
 <div>
    <h1>Desenvolvedor analista</h1>
-   <h2>Desnvolvedor desde 1991</h2>
-   <h3>Liguagens</h3>
-   <p>Cobol, Basic, Visual Basic, Pascal, Delphi, SQl</p>
-   <h3>Banco de Dados</h3>
-   <p>MySQl, SQLServer, Postgress, Firebase e Oracle</p>   
+   <h2>&nbsp;&nbsp;Desenvolvedor desde 1991</h2>
+   <h3>&nbsp;&nbsp;&nbsp;&nbsp;Liguagens</h3>
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cobol, Basic, Visual Basic, Pascal, Delphi, SQl</p>
+   <h3>&nbsp;&nbsp;&nbsp;&nbsp;Banco de Dados</h3>
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MySQl, SQLServer, Postgress, Firebase e Oracle</p>   
 </div>
     
 <div style="display: inline_block"><br>
