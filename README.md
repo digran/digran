@@ -4,7 +4,7 @@
    <h1>Desenvolvedor analista</h1>
    <h2>&nbsp;&nbspDesenvolvedor desde 1991</h2>
    <h3>&nbsp;&nbsp;&nbsp;&nbspLinguagens</h3>
-   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspCobol, Basic, Visual Basic, Pascal, Delphi, SQL, JavaScript, TypeScript</p>
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspCobol, Basic, Visual Basic, Pascal, Delphi, SQL, JavaScript e TypeScript</p>
    <h3>&nbsp;&nbsp;&nbsp;&nbspBanco de Dados</h3>
    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbspMySQl, SQLServer, Postgress, Firebase e Oracle</p>   
 </div>
