@@ -1,4 +1,13 @@
-## Bem-vindo(a) ao perfil do Digran 😁
+## Bem-vindo(a) ao perfil do Digran 😁 
+
+<div>
+   <h1>Desenvolvedor analista</h1>
+   <h2>Desnvolvedor desde 1991</h2>
+   <h3>Liguagens</h3>
+   <p>Cobol, Basic, Visual Basic, Pascal, Delphi, SQl</p>
+   <h3>Banco de Dados</h3>
+   <p>MySQl, SQLServer, Postgress, Firebase e Oracle</p>   
+</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
